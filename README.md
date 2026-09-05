@@ -41,6 +41,7 @@ nostr.net services [start.nostr.net](https://start.nostr.net) || [relay.nostr.ne
 - [UseNostr](https://usenostr.org) - A small guide for anyone who wants to learn more about how nostr works and what it can do.
 - [Building Nostr](https://building-nostr.coracle.social/) - A guide for developers building on Nostr (PDF/EPUB available).
 - [persian nostr book](https://github.com/kehiy/persian-nostr-book) - a book written in the Persian language about nostr, containing nips translation. [⚡ zap](https://nostr.net/grant/?zap=kehiy@walletofsatoshi.com)
+- [nostr-book](https://github.com/adamdecaf/nostr-book)![stars](https://img.shields.io/github/stars/adamdecaf/nostr-book.svg?style=social) - NIPs reordered into chapters for readability. [PDF](https://github.com/adamdecaf/nostr-book/raw/master/nostr-book.pdf), [ePUB](https://github.com/adamdecaf/nostr-book/raw/master/nostr-book.epub), and [web](https://nostr-book.org/).
 - [NosTracker](https://marcodpt.github.io/nostracker/) [![stars](https://img.shields.io/github/stars/marcodpt/nostracker.svg?style=social)](https://github.com/marcodpt/nostracker) - Information about NIP support for clients, relays, tools and libraries. Like a caniuse but for NIPs.
 - [Grow Nostr Initiative](https://grownostr.org) - Empowering the future of decentralized social communication through community initiatives, education, and outreach.
 - [Marmot Protocol](https://github.com/marmot-protocol/marmot)![stars](https://img.shields.io/github/stars/marmot-protocol/marmot.svg?style=social) - A messaging protocol specification for efficient end-to-end encrypted group messaging using Nostr's decentralized identity & relay network combined with the MLS Protocol.
@@ -1089,7 +1090,6 @@ Outside of nostr itself, you find the community on:
 - [nostr icons](https://github.com/satscoffee/nostr_icons)![stars](https://img.shields.io/github/stars/satscoffee/nostr_icons.svg?style=social) - Purple, white, and black icons in various formats designed for nostr.
 - [nostr playground in Ruby](https://github.com/dtonon/nostr-ruby-playground)![stars](https://img.shields.io/github/stars/dtonon/nostr-ruby-playground.svg?style=social)
 - [Nostr playground](https://github.com/SnowCait/nostr-playground)![stars](https://img.shields.io/github/stars/SnowCait/nostr-playground.svg?style=social) - JSON-based web client written in vanilla JavaScript
-- [nostr-book](https://github.com/adamdecaf/nostr-book)![stars](https://img.shields.io/github/stars/adamdecaf/nostr-book.svg?style=social) - NIPs compiled into a book
 - [nostr-logo](https://github.com/mbarulli/nostr-logo)![stars](https://img.shields.io/github/stars/mbarulli/nostr-logo.svg?style=social) - Logo and icons for the nostr protocol.
 - [nostr.build](https://nostr.build/) - nostr image uploader
 - [nostrability](https://github.com/nostrability/nostrability)![stars](https://img.shields.io/github/stars/nostrability/nostrability.svg?style=social) - The practical documentation of how various nostr apps play together.
